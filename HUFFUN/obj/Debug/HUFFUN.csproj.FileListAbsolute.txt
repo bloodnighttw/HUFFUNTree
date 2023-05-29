@@ -1,0 +1,11 @@
+C:\Users\user\RiderProjects\HUFFUN\HUFFUN\bin\Debug\HUFFUN.exe.config
+C:\Users\user\RiderProjects\HUFFUN\HUFFUN\bin\Debug\HUFFUN.exe
+C:\Users\user\RiderProjects\HUFFUN\HUFFUN\bin\Debug\HUFFUN.pdb
+C:\Users\user\RiderProjects\HUFFUN\HUFFUN\obj\Debug\HUFFUN.csproj.AssemblyReference.cache
+C:\Users\user\RiderProjects\HUFFUN\HUFFUN\obj\Debug\HUFFUN.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\RiderProjects\HUFFUN\HUFFUN\obj\Debug\HUFFUN.Properties.Resources.resources
+C:\Users\user\RiderProjects\HUFFUN\HUFFUN\obj\Debug\HUFFUN.csproj.GenerateResource.cache
+C:\Users\user\RiderProjects\HUFFUN\HUFFUN\obj\Debug\HUFFUN.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\HUFFUN\HUFFUN\obj\Debug\HUFFUN.exe
+C:\Users\user\RiderProjects\HUFFUN\HUFFUN\obj\Debug\HUFFUN.pdb
+C:\Users\user\RiderProjects\HUFFUN\HUFFUN\obj\Debug\HUFFUN.Form1.resources
